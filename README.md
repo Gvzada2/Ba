@@ -1,3 +1,4 @@
+[
 {
 "attvoon1.6": "true",
 "titlecmnvoon1.6": "Thriller",
@@ -10,4 +11,4 @@
 "statuscmnmediaworks1.0b4": "false",
 "attmediaworks1.0b4": "false"
 }
-
+]
